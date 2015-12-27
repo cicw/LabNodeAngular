@@ -1,0 +1,20 @@
+{
+  "name": "labnode",
+  "version": "1.0.0",
+  "description": "test code fro node app",
+  "main": "app.js",
+  "keywords": [
+    "lab",
+    "node"
+  ],
+  "author": "wolowski cicero",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.0",
+    "express": "^4.13.3",
+    "multer": "^1.1.0",
+    "mongoose": "^3.8.35",
+    "body-parser": "^1.13.3"
+  }
+}
+

@@ -1,0 +1,16 @@
+{
+  "name": "labangular",
+  "version": "1.0.0",
+  "description": "test code fro angular",
+  "main": "app.js",
+  "keywords": [
+    "lab",
+    "angular"
+  ],
+  "author": "wolowski cicero",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "1.4.8",
+    "angular-ui-router": "0.2.15"
+  }
+}
